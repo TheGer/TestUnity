@@ -5,7 +5,7 @@ var s:int;
 
 
 function Start () {
-
+	print("test");
 }
 
 function Update () {
